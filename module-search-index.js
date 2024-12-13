@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"LAB1withLUCASnumbers"}];updateSearchResults();
